@@ -1,0 +1,236 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'font-family: 'Kanit', sans-serif;
+}
+
+.nav{
+  background-color: rgb(255, 255, 255); ;
+    
+
+}
+.nav-item {
+    padding-left:5px ;
+    padding-right: 5px;
+    float: left;
+}
+.nav-item i{
+    padding-right: 5px;
+
+}
+.nav-new {
+    padding-right: 10px;
+}
+
+.btn-b{
+background-color:#FF5757;
+margin-right:  20px;
+text-decoration: none;
+padding: 5px;
+border: 1px solid #0c0c0c;
+border-radius: 3px;	box-shadow: 5px 5px 5px #271a1a;
+text-shadow: none;
+cursor: pointer;
+line-height: 1.15;
+overflow: visible;
+padding: 12px 16px;
+position: relative;
+transition: all 80ms ease-in-out;
+user-select: none;
+touch-action: manipulation;
+width: fit-content;
+
+}
+
+
+.btn-b a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Kanit', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    text-transform: none;
+}
+.btn-b:hover{
+    background-color: #ff6d6d;
+    border: 1px solid #ff0000;
+}
+
+
+.carrousel {
+    background-color: rgb(160, 160, 160);
+    border-top: 1px solid rgb(59, 59, 59);
+    border-bottom: 1px solid rgb(70, 70, 70);
+}
+
+.carrousel:hover {
+    border-top: 1px solid rgb(104, 104, 104);
+    border-bottom: 1px solid rgb(104, 104, 104);
+    transition: 1s;
+}
+
+
+#serviços h2 {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.767);
+    box-shadow: 12rem rgba(230, 230, 230, 0.22);
+    padding-top: 100px;
+   
+}
+
+
+.fundo {
+    background-color: #191919;
+    padding-top: 12px;
+    
+}
+
+.serviços-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #191919;
+    margin-right:50px;
+
+}
+.serviços-card img:hover{
+    cursor:pointer;
+    border-top: rgb(163, 163, 163);
+    transition: 1s;
+}
+.serviços-card2 img:hover{
+    cursor:pointer;
+    border-top: rgb(163, 163, 163);
+    transition: 1s;
+}
+
+
+
+.serviços-card2 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #191919;
+    padding-bottom: 200px;
+    margin-right:50px;
+
+}
+
+
+
+.card-item {
+    border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 30px;
+    margin: 20px;
+    width: 400px;
+    transition: all 0.3s ease-out;
+    min-height: 350px;
+    min-width: 300px;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+    max-height: 300px;
+    
+  
+
+}
+   
+
+
+.card-item2 {
+   
+    border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 30px;
+    margin: 20px;
+    width: 400px;
+    transition: all 0.3s ease-out;
+    min-height: 350px;
+    min-width: 300px;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+    max-height: 300px;
+  
+  
+}
+
+.modal-footer a{
+    color: white;
+    text-decoration: none;
+}
+.footer-dark {
+    border-top: 1px solid grey;
+    padding:50px 0;
+    color:#f0f9ff;
+    background-color:#1d1d1d;
+  }
+  
+  .footer-dark h3 {
+    margin-top:0;
+    margin-bottom:12px;
+    font-weight:bold;
+    font-size:16px;
+  }
+  
+  .footer-dark ul {
+    padding:0;
+    list-style:none;
+    line-height:1.6;
+    font-size:14px;
+    margin-bottom:0;
+  }
+  
+  .footer-dark ul li {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.6;
+  }
+  
+  .footer-dark ul a:hover {
+    opacity:0.8;
+  }
+  
+
+  
+  .footer-dark .item.text {
+    margin-bottom:36px;
+  }
+  
+  @media (max-width:767px) {
+    .footer-dark .item.text {
+      margin-bottom:0;
+    }
+  }
+  
+  .footer-dark .item.text p {
+    opacity:0.6;
+    margin-bottom:0;
+  }
+  
+  
+  .footer-dark .copyright {
+    text-align:center;
+    padding-top:24px;
+    opacity:0.3;
+    font-size:13px;
+    margin-bottom:0;
+  }
+@media screen and (max-width:675px) {
+    .btn-b {
+        display: none;
+    } }
+
+@media screen and (max-width: 920px)
+ { .serviços-card2  { 
+    flex-direction: column;
+ }
+    }
+    @media screen and (max-width: 920px)
+ { .serviços-card  { 
+    flex-direction: column;
+ }
+    }
