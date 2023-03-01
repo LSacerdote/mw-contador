@@ -17,9 +17,11 @@ Bootstrap
  
 Abra o site em seu computador  ↓
 
+# Abra no seu navegador clicando no link  ↓
+https://mwcontador.netlify.app/
+
+
 # Usando GIT, Copie o repositório com o comando:
 git clone https://github.com/LSacerdote/mw-contador
 Abra index.html com o seu browser para ver o resultado.
              
-# Abra no seu navegador clicando no link  ↓
-https://mwcontador.netlify.app/
