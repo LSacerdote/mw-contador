@@ -218,11 +218,21 @@ width: fit-content;
     opacity:0.3;
     font-size:13px;
     margin-bottom:0;
+    
+  }
+  .none {
+    display: none;
   }
 @media screen and (max-width:675px) {
     .btn-b {
         display: none;
     } }
+
+    @media screen and (max-width:675px) {
+      .none {
+          display: block;
+      } }
+
 
 @media screen and (max-width: 920px)
  { .serviços-card2  { 
