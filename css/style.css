@@ -222,7 +222,8 @@ width: fit-content;
   }
   .none {
     display: none;
-  }
+}
+  
 @media screen and (max-width:675px) {
     .btn-b {
         display: none;
