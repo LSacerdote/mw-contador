@@ -222,8 +222,13 @@ width: fit-content;
   }
   .none {
     display: none;
-}
+    margin-left: 4px;
   
+    
+}
+.none:hover{
+cursor: pointer;
+}
 @media screen and (max-width:675px) {
     .btn-b {
         display: none;
