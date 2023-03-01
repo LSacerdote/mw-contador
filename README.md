@@ -5,7 +5,7 @@ Esse projeto é uma ladding page para meu irmão que trabalha como contador. Ess
 ![2](https://user-images.githubusercontent.com/107942374/222154800-3b2a3f22-04b8-484c-97b3-95bf94ec5e46.png)
 ![4](https://user-images.githubusercontent.com/107942374/222154839-5ff6c8e0-fb2e-4451-9a9b-192243ba0256.png)
 
-# Site na Versão Mobile
+#Versão Mobile
 ![22](https://user-images.githubusercontent.com/107942374/222155970-417be745-e3c2-44db-a424-8ade03986f2c.png)
 
 # Tecnologias Usadas
