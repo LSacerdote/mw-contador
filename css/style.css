@@ -52,11 +52,14 @@ width: fit-content;
     text-align: center;
     text-transform: none;
 }
+
 .btn-b:hover{
     background-color: #ff6d6d;
     border: 1px solid #ff0000;
 }
-
+.btn-b a:hover {
+  color: #f1f1f1;
+}
 
 .carrousel {
     background-color: rgb(160, 160, 160);
