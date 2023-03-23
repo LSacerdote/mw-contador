@@ -216,7 +216,7 @@ width: fit-content;
   }
   
   
-  .footer-dark .copyright {
+  .footer-dark  .copyright{
     text-align:center;
     padding-top:24px;
     opacity:0.3;
@@ -224,6 +224,10 @@ width: fit-content;
     margin-bottom:0;
     
   }
+  .copyright a{
+    color:red;
+  }
+
   .none {
     display: none;
     margin-left: 4px;
