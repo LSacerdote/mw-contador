@@ -16,7 +16,7 @@ CSS
 
 Bootstrap
  
-Abra o site em seu computador  ↓
+
 
 # Abra no seu navegador clicando no link  ↓
 https://mwcontador.netlify.app/
